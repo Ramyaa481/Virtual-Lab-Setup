@@ -19,7 +19,9 @@ To create a safe and isolated environment for learning cybersecurity concepts us
 
 ## Commands Used
 whoami
+
 uname -a
+
 ip a
 
 ## Outcome
