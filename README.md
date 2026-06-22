@@ -30,8 +30,8 @@ Successfully created a virtual cybersecurity lab using Kali Linux in VirtualBox.
 ## Screenshots
 
 ### Kali Linux Desktop
-![Kali Desktop](screenshots/2026-06-22 194134.png)
+![Kali Desktop](screenshots/kali-desktop.png)
 
 ### Terminal Verification
-![Terminal](screenshots/2026-06-22 200946.png)
+![Terminal](screenshots/terminal.png)
 
