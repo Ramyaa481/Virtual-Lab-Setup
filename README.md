@@ -26,3 +26,12 @@ ip a
 
 ## Outcome
 Successfully created a virtual cybersecurity lab using Kali Linux in VirtualBox.
+
+## Screenshots
+
+### Kali Linux Desktop
+![Kali Desktop](screenshots/kali-desktop.png)
+
+### Terminal Verification
+![Terminal](screenshots/terminal.png)
+
